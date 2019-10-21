@@ -10,7 +10,7 @@ double res = 0;
 int main() {
 	int op = 1;
 	do {
-		std::cout << "Menu               \n";
+		std::cout << "Menu v2           \n";
 		std::cout << "[1]Suma            \n";
 		std::cout << "[2]Resta           \n";
 		std::cout << "[3]Division        \n";
