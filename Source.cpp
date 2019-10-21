@@ -63,3 +63,4 @@ void division(double numero1, double numero2) {
 void multiplicacion(double numero1, double numero2) {
 	res = numero1 * numero2;
 	std::cout << "La multipliacion de los 2 Numeros es: " << res << "\n";
+}
